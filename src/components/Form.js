@@ -4,8 +4,8 @@ import Recipe from './Recipe';
 import './Form.scss';
 
 const Form = () => {
-  const API_ID = '189e1438';
-  const API_KEY = '8ed21eeb4bfb66412b93d58707992570';
+  const API_ID = 'b57c35cc';
+  const API_KEY = '375d2e2dfce5dc466c8203b6a2d7c7a5';
 
   const [recipes, setRecipes] = useState([]);
   const [query, setQuery] = useState('');
